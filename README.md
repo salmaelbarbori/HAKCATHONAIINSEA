@@ -2,6 +2,8 @@
 
 Morocco SAFEr, is a project born  during my participation in INSEA AI Hackathon focusing on Fraud prevension to secure future, I am submitting this project that is dedicated to the same matter, and more precisely applied in tourism sector, since I consider it a pilalr in the Moroccan Context.
 
+<img src="./assets/cover.png" alt="cover" title="cover">
+
 ## Introduction
 
 Our collaborative platform aims to enhance tourist security during their stay in Morocco, by preventing them from any type of fraud. This leads to securing the future of tourism as a leading sector to Morocco’s competitiveness.
