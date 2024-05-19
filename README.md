@@ -4,7 +4,7 @@ Morocco SAFEr, is a project born  during my participation in INSEA AI Hackathon 
 
 ## General idea
 
-<img src="./assets/Cover.png" alt="cover" title="cover">
+<img src="./assets/Cover.PNG" alt="cover" title="cover">
 
 ## Introduction
 
