@@ -32,6 +32,7 @@ Link for the presentation:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Acknowledgment
 
