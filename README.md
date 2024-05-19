@@ -11,10 +11,10 @@ Our collaborative platform aims to enhance tourist security during their stay in
 The dataset for Morocco SAFEr contains different scenarios in form of title, category , questions and answer. It forms a knowledge base for the first version of the project.
 
 ## Pipeine for the project
-<img src="C:\Users\Home\Desktop\HackathonInseaAI\assets\projectPipeline.png" alt="pipeline" title="pipeline">
+<img src="./assets/projectPipeline.png" alt="pipeline" title="pipeline">
 
 ## Working demonstration
-<img src="C:\Users\Home\Desktop\HAKCATHONAIINSEA\assets\WorkingDemo.PNG" alt="demo" title="demo">
+<img src="./assets/WorkingDemo.PNG" alt="demo" title="demo">
 
 ## Presentation
 
