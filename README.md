@@ -32,3 +32,7 @@ Link for the presentation:
 
 ```bash
 pip install -r requirements.txt
+
+## Acknowledgment
+
+I would like to thank the Insea Innovation Club for giving me the opportunity to develop a meaningful project and contribute to the betterment of Morocco.
