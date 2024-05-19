@@ -24,6 +24,7 @@ The dataset for Morocco SAFEr contains different scenarios in form of title, cat
 ## Presentation
 
 Link for the presentation: 
+- https://github.com/salmaelbarbori/HAKCATHONAIINSEA/blob/main/presentation/Morocco%20SAFEr.pptx
 
 
 
